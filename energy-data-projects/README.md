@@ -24,4 +24,4 @@ Excel
 ## About me
 Built by Dozie, The dataPoet. I am a Chemical Engineering student at FUTO who makes data and dashboards easy to understand for non-technical audiences.
 
-Connect with me on [LinkedIn](www.linkedin.com/in/festus-nnadozie-the-data-poet-85141b3a2).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/festus-nnadozie-the-data-poet-85141b3a2).
