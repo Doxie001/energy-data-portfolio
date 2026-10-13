@@ -50,4 +50,4 @@ Excel (more tools will be listed here as projects use them)
 ## About me
 I'm Festus Nnadozie, also known as **The dataPoet**. I am a Chemical Engineering student at FUTO (Federal University of Technology, Owerri), and I build data projects that make analytics easy to understand for non-technical audiences.
 
-Connect with me on [LinkedIn](www.linkedin.com/in/festus-nnadozie-the-data-poet-85141b3a2).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/festus-nnadozie-the-data-poet-85141b3a2).
